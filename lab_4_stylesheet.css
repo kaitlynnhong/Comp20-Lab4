@@ -16,9 +16,9 @@ dt {
     list-style-type: disc;
 }
 
-div {
-    height: 807px;
-    width: 562px;
+#img {
+    height: 500px;
+    width: 300px;
 }
 
 #header {

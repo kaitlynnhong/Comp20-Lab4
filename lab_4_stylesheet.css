@@ -16,6 +16,11 @@ dt {
     list-style-type: disc;
 }
 
+div {
+    height: 807px;
+    width: 562px;
+}
+
 #header {
     font-size: 16px;
     color:#3939ac;

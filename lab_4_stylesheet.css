@@ -1,0 +1,21 @@
+body {
+    background:#cce6ff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color:#003366;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:#4d0026;
+}
+
+#header {
+    font-size: 16px;
+    color:#3939ac;
+}
+
+#job {
+    color: #002266;
+}

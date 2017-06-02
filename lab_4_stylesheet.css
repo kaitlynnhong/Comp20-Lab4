@@ -1,5 +1,5 @@
 body {
-    background:#cce6ff;
+    background: #e6e6ff;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     color:#003366;
@@ -11,6 +11,11 @@ h1 {
     color:#4d0026;
 }
 
+dt {
+    display: list-item;
+    list-style-type: disc;
+}
+
 #header {
     font-size: 16px;
     color:#3939ac;
@@ -18,4 +23,5 @@ h1 {
 
 #job {
     color: #002266;
+    font-weight: bold;
 }

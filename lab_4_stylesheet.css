@@ -9,6 +9,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     color:#4d0026;
+    text-align: center;
 }
 
 dt {
@@ -19,14 +20,20 @@ dt {
 #img {
     height: 500px;
     width: 300px;
+    display: block;
+    margin: 0 auto;
 }
 
-#header {
+.header {
     font-size: 16px;
     color:#3939ac;
 }
 
-#job {
+.job {
     color: #002266;
     font-weight: bold;
+}
+
+.center {
+    text-align: center;
 }

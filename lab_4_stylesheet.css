@@ -21,7 +21,8 @@ dt {
     height: 500px;
     width: 300px;
     display: block;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header {

@@ -1,15 +1,15 @@
 body {
-    background-image: url("kaitlynnhong.github.io/background.JPG");
+    background: url("kaitlynnhong.github.io/background.jpg");
     background-repeat: no-repeat;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
-    color:#003366;
+    color:#000000;
 }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
-    color:#4d0026;
+    color:#2b6d81;
     text-align: center;
 }
 
@@ -27,8 +27,26 @@ dt {
 }
 
 .header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    color:#3939ac;
+    font-weight: bold; 
+    color:#000000;
+    text-align: left;
+}
+
+.resumeheader {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    color:#2b6d81;
+    text-align: left;
+}
+
+
+.bodytext {
+    font-size: 16px;
+    color:#000000;
+    text-align: center;
 }
 
 .job {
